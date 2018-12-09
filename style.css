@@ -5,9 +5,9 @@ body {
 a {
   color: white;
   text-decoration: none;
-  /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
-    1px 1px 0 #000; */
-  background: red;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  /* background: red; */
 }
 
 /* Class Banner Image */
@@ -31,4 +31,10 @@ li {
   background: black;
   padding: 50px;
   justify-content: space-between;
+}
+
+.about {
+  background: url('images/Luc-Poitras-Tournament.jpg');
+  height: 390px;
+  background-repeat: no repeat;
 }
