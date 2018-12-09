@@ -43,11 +43,11 @@ li {
 }
 
 .CFC {
-  background: url('images/CFC Certificate.jpg');
+  /* background: url('images/CFC Certificate.jpg'); */
   height: 100%;
 }
 
 .USCF {
-  background: url('images/USCF Certificate.jpg');
+  /* background: url('images/USCF Certificate.jpg'); */
   height: 100%;
 }
