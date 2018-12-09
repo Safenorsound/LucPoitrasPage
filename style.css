@@ -36,5 +36,17 @@ li {
 .about {
   background: url('images/Luc-Poitras-Tournament.jpg');
   height: 390px;
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
+  border-radius: 100px 100px;
+  background-position: right;
+  width: 300px;
+}
+
+.CFC {
+  background: url('images/CFC Certificate.jpg');
+}
+
+.USCF {
+  background: url('images/USCF Certificate.jpg');
+  height: 100%;
 }
