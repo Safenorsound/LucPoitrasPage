@@ -33,12 +33,9 @@ li {
   justify-content: space-between;
 }
 
-.about {
-  background: url('images/Luc-Poitras-Tournament.jpg');
-  height: 390px;
-  background-repeat: no-repeat;
+img.About-Me {
   border-radius: 100px 100px;
-  background-position: right;
+  position: right;
   width: 300px;
 }
 
@@ -48,6 +45,5 @@ li {
 }
 
 .USCF {
-  /* background: url('images/USCF Certificate.jpg'); */
   height: 100%;
 }
