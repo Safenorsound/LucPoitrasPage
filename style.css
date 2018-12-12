@@ -15,7 +15,7 @@ a {
   background: url('images/Luc-Class.jpg');
   background-repeat: no-repeat;
   height: 500px;
-  width: 100vw;
+  width: 100%;
 }
 
 .name {
