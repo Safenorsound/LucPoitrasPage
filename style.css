@@ -19,8 +19,21 @@ a {
 }
 
 .name {
+  display: flex;
+  justify-content: center;
   color: fff;
   margin: 0;
+  font-size: 2rem;
+  /* text-shadow: white; */
+}
+
+.coach {
+  display: flex;
+  justify-content: center;
+  color: fff;
+  margin: 0;
+  font-size: 2rem;
+  /* text-shadow: white; */
 }
 li {
   list-style: none;
@@ -71,4 +84,9 @@ div.bio-image {
   -moz-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   -o-transform: rotate(270deg);
+}
+
+.services {
+  /* background: url('images/blackchessbackground.jpg'); */
+  object-fit: contain;
 }
