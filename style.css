@@ -9,6 +9,10 @@ a {
     1px 1px 0 #000;
 }
 
+h2 {
+  text-align: center;
+}
+
 /* Class Banner Image */
 .banner-container {
   background: url('images/Luc-Class.jpg');
@@ -86,9 +90,18 @@ div.bio-image {
   -o-transform: rotate(270deg);
 }
 
-.services {
-  background: url('images/blackchessbackground.jpg') fixed center;
-
-  object-fit: cover;
+div.services {
+  background: url('images/blackchessbackground.jpg') repeat fixed center;
+  /* object-fit: fixed center; */
   color: white;
+  text-indent: 1rem;
+  margin: 2rem, 1rem, 2rem;
+}
+
+.blog {
+  text-indent: 1rem;
+}
+
+.Contact {
+  text-indent: 1rem;
 }
