@@ -87,6 +87,8 @@ div.bio-image {
 }
 
 .services {
-  /* background: url('images/blackchessbackground.jpg'); */
-  object-fit: contain;
+  background: url('images/blackchessbackground.jpg') fixed center;
+
+  object-fit: cover;
+  color: white;
 }
