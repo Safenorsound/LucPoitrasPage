@@ -42,7 +42,7 @@ h2.About-Me {
   justify-content: center;
   color: fff;
   font-size: 3rem;
-  text-shadow: 1px 1px 1px rgb(255, 255, 255);
+  text-shadow: 3px 3px 3px rgb(255, 255, 255);
 }
 
 .coach {
@@ -51,7 +51,7 @@ h2.About-Me {
   color: fff;
   margin: 0;
   font-size: 2rem;
-  text-shadow: 1px 1px 1px rgb(255, 255, 255);
+  text-shadow: 3px 3px 3px rgb(255, 255, 255);
   /* text-shadow: white; */
 }
 li {
@@ -101,8 +101,7 @@ div.bio-image {
 
 .CFC {
   width: 550px;
-  /* position: absolute; */
-  /* margin: 0; */
+  margin: auto;
   transform: rotate(270deg);
   -ms-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
@@ -113,7 +112,7 @@ div.bio-image {
 
 .USCF {
   width: 40%;
-  /* margin: auto; */
+  margin: auto;
   transform: rotate(270deg);
   -ms-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
