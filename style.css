@@ -12,7 +12,7 @@ a {
 p,
 li {
   font-size: 1.25rem;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 h2 {
@@ -60,7 +60,6 @@ li {
 .header.container ul {
   display: flex;
   flex-direction: row;
-  justify-content: center;
   background: black;
   background-image: linear-gradient(to top left, black, #2f4f4f);
   padding: 50px;
@@ -128,7 +127,8 @@ div.services {
   border-style: double;
 }
 
-.footer-section {
+ul.footer-section.container {
   display: flex;
-  text-align: space-between;
+  justify-content: space-around;
+  flex-direction: row;
 }
