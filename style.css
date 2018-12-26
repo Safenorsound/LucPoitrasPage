@@ -89,15 +89,6 @@ div.bio-image {
   width: 40vw;
 }
 
-/* .credentials {
-  display: flex;
-  flex-direction: flex-wrap;
-} */
-
-/* .p-credentials {
-  width: 100vw;
-} */
-
 .CFC {
   width: 550px;
   margin: auto;
@@ -135,4 +126,9 @@ div.services {
 .contact {
   margin: 1rem;
   border-style: double;
+}
+
+.footer-section {
+  display: flex;
+  text-align: space-between;
 }
