@@ -9,7 +9,6 @@ a {
   text-shadow: 2px 2px 8px #ff0000;
 }
 
-p,
 li {
   font-size: 1.25rem;
   line-height: 1.5;
@@ -29,8 +28,8 @@ h2 {
   background: url('images/LucClass.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  height: 500px;
-  width: 100%;
+  height: 800px;
+  width: 100vw;
   background-color: black;
 }
 
@@ -53,7 +52,6 @@ h2.About-Me {
   margin: 0;
   font-size: 2rem;
   text-shadow: 3px 3px 3px rgb(255, 255, 255);
-  /* text-shadow: white; */
 }
 li {
   list-style: none;
@@ -70,7 +68,7 @@ li {
 }
 
 .About-Me {
-  margin: 1rem;
+  /* margin: 1rem; */
   width: 100vw;
   display: flex;
   flex-wrap: wrap;
@@ -78,16 +76,16 @@ li {
 }
 
 .credentials {
-  margin: 1rem;
+  /* margin: 1rem; */
   width: 100vw;
   border-style: double;
 }
 
 div.bio-image {
-  width: 40vw;
+  width: 40%;
 }
 .about-text {
-  width: 40vw;
+  width: 40%;
 }
 
 .CFC {
@@ -121,13 +119,20 @@ div.services {
 }
 
 .blog {
-  margin: 1rem;
+  /* margin: 1rem; */
   border-style: double;
+}
+.inner-hand-crafted-text {
+  margin: 2rem;
 }
 
 .contact {
-  margin: 1rem;
+  /* margin: 1rem; */
   border-style: double;
+}
+
+.contact-inner {
+  margin: 2rem;
 }
 
 ul.footer-section.container {
