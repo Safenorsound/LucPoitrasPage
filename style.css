@@ -23,10 +23,12 @@ h2 {
   margin-bottom: 3rem;
 }
 
+/* images/Luc-Poitras-Tournament.jpg */
 /* Class Banner Image */
 .banner-container {
-  background: url('images/Luc-Class.jpg');
+  background: url('images/LucClass.jpg');
   background-repeat: no-repeat;
+  background-position: center;
   height: 500px;
   width: 100%;
   background-color: black;
