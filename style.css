@@ -4,9 +4,9 @@ body {
 }
 
 a {
-  color: white;
+  color: royalblue;
   text-decoration: none;
-  text-shadow: 2px 2px 8px #ff0000;
+  text-shadow: 2px 2px 8px rgb(100, 100, 100);
 }
 
 li {
@@ -46,7 +46,7 @@ h2.About Me {
   justify-content: center;
   color: fff;
   font-size: 4rem;
-  text-shadow: 3px 3px 3px rgb(255, 255, 255);
+  text-shadow: 0px 0px 3px rgb(100, 100, 100);
 }
 
 .coach {
@@ -72,10 +72,7 @@ li {
 }
 
 .About-Me {
-  /* margin: 1rem; */
-  width: 100vw;
   display: flex;
-  flex-wrap: wrap;
   border-style: double;
 }
 
@@ -86,10 +83,7 @@ li {
 }
 
 div.bio-image {
-  width: 40%;
-}
-.about-text {
-  width: 40%;
+  width: 500px;
 }
 
 .CFC {
