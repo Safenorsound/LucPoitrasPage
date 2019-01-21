@@ -48,9 +48,9 @@ h2.About Me {
 .name {
   display: flex;
   justify-content: center;
-  color: fff;
+  color: midnightblue;
   font-size: 4rem;
-  text-shadow: 0px 0px 3px rgb(100, 100, 100);
+  text-shadow: 2px 1px 7px rgba(147, 255, 96, 0.5);
 }
 
 .coach {
@@ -80,17 +80,13 @@ li {
   flex: wrap;
   border-style: double;
   margin: 1rem;
+  background: lightgrey;
 }
 
 .credentials {
   margin: 1rem;
-  width: 100vw;
   border-style: double;
-  margin: 1rem;
-}
-
-.credentials-inner {
-  margin: 1rem;
+  background: lightgrey;
 }
 
 div.bio-image {
@@ -131,6 +127,7 @@ div.services {
   /* margin: 1rem; */
   border-style: double;
   margin: 1rem;
+  background: lightgrey;
 }
 .inner-hand-crafted-text {
   margin: 2rem;
@@ -147,7 +144,8 @@ div.services {
   border: double;
   width: 350px;
   /* To make a box around the requirments for parents */
-  margin: 0.5rem;
+  margin: 1rem;
+  text-align: left;
 }
 
 .contact-inner {
