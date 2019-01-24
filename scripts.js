@@ -1,5 +1,7 @@
 $(document).ready(function() {
-  $('#nav').click(function(event) {
+  // Smooth Scroll Function
+
+  $('#nav li').click(function(event) {
     var headerHeight = $('header').height();
 
     // event.preventDefault();
