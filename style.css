@@ -50,7 +50,7 @@ h2.About Me {
   justify-content: center;
   color: midnightblue;
   font-size: 4rem;
-  text-shadow: 2px 1px 7px rgba(147, 255, 96, 0.5);
+  text-shadow: 2px 1px 7px rgba#fff);
 }
 
 .coach {
