@@ -150,6 +150,9 @@ div.services {
   /* To make a box around the requirments for parents */
   margin: 1rem;
   text-align: left;
+  /* margin-left: auto%;
+  margin-right: auto%; */
+  padding-left: 0.5rem;
 }
 
 .contact-inner {
