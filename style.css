@@ -48,8 +48,8 @@ h2.About Me {
   display: flex;
   justify-content: center;
   color: linear-gradient(black, grey);
+  border-color: #2f4f4f;
   font-size: 4rem;
-  /* background-color: #2f4f4f; */
   filter: alpha(opacity=50);
   -moz-opacity: 0.5;
   -khtml-opacity: 0.5;
