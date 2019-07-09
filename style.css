@@ -49,7 +49,7 @@ h2.About Me {
   justify-content: center;
   color: linear-gradient(black, grey);
   font-size: 4rem;
-  background-color: #2f4f4f;
+  /* background-color: #2f4f4f; */
   filter: alpha(opacity=50);
   -moz-opacity: 0.5;
   -khtml-opacity: 0.5;
