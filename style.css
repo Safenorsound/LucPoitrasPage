@@ -156,6 +156,8 @@ div.services {
   width: 350px;
   /* To make a box around the requirments for parents */
   margin: 1rem;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
   /* margin-left: auto%;
   margin-right: auto%; */
