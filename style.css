@@ -195,11 +195,14 @@ ul.footer-section.container {
   flex-direction: row;
 }
 ul#nav {
-  visibility: hidden;
-  text-align: left;
+  display: none;
 }
+
 @media only screen and (min-width: 600px) {
   ul#nav {
-    visibility: visible;
+    display: block;
+  }
+  span.hamburger {
+    display: none;
   }
 }
