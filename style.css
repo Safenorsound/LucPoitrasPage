@@ -195,14 +195,13 @@ ul.footer-section.container {
   flex-direction: row;
 }
 ul#nav {
-  display: none;
+  display: block;
 }
-
 @media only screen and (min-width: 600px) {
   ul#nav {
-    display: block;
+    display: flex;
   }
-  span.hamburger {
+  /* span.hamburger {
     display: none;
-  }
+  } */
 }
