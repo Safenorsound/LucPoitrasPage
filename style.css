@@ -50,6 +50,8 @@ h2.About Me {
   display: flex;
   justify-content: center;
   color: linear-gradient(black, rgb(92, 89, 89));
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
   border-color: #2f4f4f;
   font-size: 4rem;
   filter: alpha(opacity=50);
