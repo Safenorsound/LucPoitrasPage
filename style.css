@@ -19,6 +19,8 @@ h2 {
   font-size: 3rem;
   text-align: center;
   width: 100vw;
+  text-shadow: -1px -1px 0 #4169e1, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff;
   margin-bottom: 3rem;
 }
 
